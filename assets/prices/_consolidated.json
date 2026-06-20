@@ -1,0 +1,256 @@
+{
+  "acs712": {
+    "min": 4000,
+    "median": 4000,
+    "max": 4000,
+    "mean": 4000,
+    "sources": [
+      {
+        "host": "www.konga.com",
+        "name": "ACS712 Current Sensor Module -30A Model | 3533029 - Konga",
+        "snippet": "ACS712 Current Sensor Module -30A Model. ACS712 Current Sensor Module -30A Model. ACS712 Current Sensor Module -30A Model. \u20a64,000. Quantity:.",
+        "prices": [
+          4000
+        ]
+      }
+    ]
+  },
+  "breadboard": {
+    "min": 1700,
+    "median": 6999,
+    "max": 25000,
+    "mean": 10600,
+    "sources": [
+      {
+        "host": "www.jumia.com.ng",
+        "name": "Breadboard Available @ Best Price Online | Jumia Nigeria",
+        "snippet": "400 Tie - Points Solderless PCB Breadboard. \u20a6 5,000 ; 830 Tie - Points Solderless PCB Breadboard. \u20a6 6,999 ; Arduino RFID Starter Learning Kit with Sensors, Uno,",
+        "prices": [
+          5000,
+          6999
+        ]
+      },
+      {
+        "host": "www.jumia.com.ng",
+        "name": "Generic Breadboard 830 Point Solderless PCB Bread Board",
+        "snippet": "Breadboard 830 Point Solderless PCB Bread Board MB-102 MB102 Test Develop DIY for ard. \u20a6 12,500. 3 units left. + shipping from \u20a6 1,700 to LEKKI-AJAH (SANGOTEDO)",
+        "prices": [
+          12500,
+          1700
+        ]
+      },
+      {
+        "host": "www.jumia.com.ng",
+        "name": "Solderless mini breadboard for prototyping - Jumia Nigeria",
+        "snippet": "Breadboard 830 Point Solderless PCB 14,999.00 \u20a6 25,000.00 -40% The breadboard is a tool \u20a6 15,999.00",
+        "prices": [
+          25000,
+          15999
+        ]
+      }
+    ]
+  },
+  "cigar": {
+    "min": 15210,
+    "median": 21500,
+    "max": 24351,
+    "mean": 20265,
+    "sources": [
+      {
+        "host": "www.jumia.com.ng",
+        "name": "V to 12v cigarette lighter adapter at Best Prices Online - Jumia Nigeria",
+        "snippet": "\u20a6 15,210.00 \u20a6 20,000.00 -24% USB Charging Socket. Product features: two cigarette lighter ports and dual USB ports",
+        "prices": [
+          15210,
+          20000
+        ]
+      },
+      {
+        "host": "www.u-buy.com.ng",
+        "name": "USB Cigarette Lighter Adapter - iGreely USB A Male Nigeria - Ubuy",
+        "snippet": "USB A Male to 12V Car Cigarette Lighter Socket. NGN 24351 Price online at a best price in Nigeria. Nigeria this product is available for you to shop at a ...",
+        "prices": [
+          24351
+        ]
+      },
+      {
+        "host": "jiji.ng",
+        "name": "5-in-1 Retractable Car Charger 168watt Usb C Cigarette Lighter  - Jiji",
+        "snippet": "Lighter Adapter \u20a6 21,500 \u30fb for a 12v cigarette lighter socket \u30fb it features usb-a and usb-c ports for use with all plug cables. Free Classifieds in Nigeria ...",
+        "prices": [
+          21500
+        ]
+      }
+    ]
+  },
+  "diode": {
+    "min": 4007,
+    "median": 4007,
+    "max": 17763,
+    "mean": 5726,
+    "sources": [
+      {
+        "host": "www.u-buy.com.ng",
+        "name": "100Pcs 1N4007 Rectifier Diode Axial Electronic Nigeria | Ubuy",
+        "snippet": "NGN 17763 Price 1000V Electronic Silicon Doorbell Diodes online at a best price in Nigeria. this product is available for you to shop at a reasonable price.",
+        "prices": [
+          4007,
+          17763
+        ]
+      },
+      {
+        "host": "www.jumia.com.ng",
+        "name": "1N4007 General Purpose Rectifier Diode - 10 pcs - Jumia Nigeria",
+        "snippet": "Get the 1N4007 General Purpose Rectifier Diode - 10 pcs online at Jumia Nigeria and other Generic Diodes on Jumia Nigeria \u2713 Price in Naira \u2713 Enjoy cash on",
+        "prices": [
+          4007,
+          4007
+        ]
+      },
+      {
+        "host": "www.ultralibrarian.com",
+        "name": "1N4007 Diode Datasheet: Applications and Analysis - Ultra Librarian",
+        "snippet": "The 1N4007 diode is a common rectifier \u30fb typically used in rectification applications in electronic circuits, Classic Components $0.025 ...",
+        "prices": [
+          4007,
+          4007
+        ]
+      }
+    ]
+  },
+  "esp8266": {
+    "min": 4000,
+    "median": 7000,
+    "max": 14000,
+    "mean": 8639,
+    "sources": [
+      {
+        "host": "www.jumia.com.ng",
+        "name": "Esp8266 @available in Nigeria | Buy Online | Jumia NG",
+        "snippet": "ESP8266 WiFi Module. \u20a6 6,000 ; ESP8266 CH340 NodeMCU V3 Wireless Module. \u20a6 11,250 ; ESP8266 ESP-12E WIFI Development Board - NodeMCU LUA. \u20a6 8,500 ; ESP8266 ESP-",
+        "prices": [
+          6000,
+          11250,
+          8500
+        ]
+      },
+      {
+        "host": "www.jumia.com.ng",
+        "name": "Module wifi iot esp8266 at Best Prices Online - Jumia Nigeria",
+        "snippet": "Open source 2. \u20a6 14,000.00. Add to cart. 1. ESP8266 CH340 NodeMCU V3 Wireless Module. ESP8266 ESP-12E is the mo.",
+        "prices": [
+          14000
+        ]
+      },
+      {
+        "host": "www.konga.com",
+        "name": "Networking Devices | Buy Online at Affordable Prices - Konga",
+        "snippet": "Arduino ESP8266 NODE-MCU V3 LUA WIFI MODULE. \u20a66,500 \u00b7 Sold by rumarsel online store. 3 Reviews.",
+        "prices": [
+          6500
+        ]
+      }
+    ]
+  },
+  "jumper": {
+    "min": 12622,
+    "median": 18899,
+    "max": 30055,
+    "mean": 20683,
+    "sources": [
+      {
+        "host": "www.jumia.com.ng",
+        "name": "Jumper wires for arduino at Best Prices Online - Jumia Nigeria",
+        "snippet": "Jumper Wires \u2013 3 In 1 - 1 \u20a6 18,899.00. Dupont Cable For Arduino boards, 3D Printer, Modules. including Arduino, Raspberry Pi, and more. provide ...",
+        "prices": [
+          18899
+        ]
+      },
+      {
+        "host": "rehmie.com.ng",
+        "name": "Jumper wire in Nigeria - Rehmie.com.ng",
+        "snippet": "Dupont Cable For \u20a6 12,622.48 \u20a6 13,286.82. For Arduino Double-headed the DuPont line \u20a6 28,552.35 \u20a6 30,055.10 -5% customer",
+        "prices": [
+          12622,
+          13286,
+          28552
+        ]
+      }
+    ]
+  },
+  "lm317": {
+    "min": 350,
+    "median": 35000,
+    "max": 84000,
+    "mean": 43970,
+    "sources": [
+      {
+        "host": "nicrobit.com.ng",
+        "name": "LM317 Voltage Regulator Adjustable Output 1.5 A - Nicrobit",
+        "snippet": "LM317 Voltage Regulator Adjustable Output 1.5 A. \u20a6350.00. In stock. LM317 Voltage Regulator Adjustable Output 1.5 A quantity. Add to basket.",
+        "prices": [
+          350
+        ]
+      },
+      {
+        "host": "www.jumia.com.ng",
+        "name": "Voltage Regulator Available @ Best Price Online | Jumia Nigeria",
+        "snippet": "Tomzn 100A Adjustable Over and Under voltage regulator (AVR). \u20a6 25,999\u20a6 35,000 ; Qasa 1.5KVA Automatic Voltage Regulator (Wall Mount) For A/C \u00b7 \u20a6 74,500\u20a6 84,000",
+        "prices": [
+          25999,
+          35000,
+          74500
+        ]
+      }
+    ]
+  },
+  "relay": {
+    "min": 1650,
+    "median": 1650,
+    "max": 1650,
+    "mean": 1650,
+    "sources": [
+      {
+        "host": "www.microscale.net",
+        "name": "5v 1 channel relay module - Microscale",
+        "snippet": "Arduino boards does. When inputs a logic voltage, the ... 5v 1 channel relay module. Regular price \u20a61,650.00 NGN. Regular price Sale price \u20a61,650.00 NGN.",
+        "prices": [
+          1650,
+          1650
+        ]
+      }
+    ]
+  },
+  "usb": {
+    "min": 10500,
+    "median": 10500,
+    "max": 10500,
+    "mean": 10500,
+    "sources": [
+      {
+        "host": "www.facebook.com",
+        "name": "What is the price of Arduino nano in Nigeria? - Facebook",
+        "snippet": "Current price as of 29/08/24 is N10500. With just a USB cable and a simple Arduino IDE you are up and running",
+        "prices": [
+          10500
+        ]
+      }
+    ]
+  },
+  "zener": {
+    "min": 57863,
+    "median": 57863,
+    "max": 57863,
+    "mean": 57863,
+    "sources": [
+      {
+        "host": "www.u-buy.com.ng",
+        "name": "On Semiconductor Zener Diode, 500Mw, 5.6V, Nigeria | Ubuy",
+        "snippet": "On Semiconductor Zener Diode, 500Mw, 5.6V, Do-35-1N5232B \u00b7 NGN 57863 \u00b7 What Stands Out \u00b7 Product Details \u00b7 Who Should Buy? \u00b7 Product Description \u00b7 Customer Ques",
+        "prices": [
+          57863
+        ]
+      }
+    ]
+  }
+}

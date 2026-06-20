@@ -1,0 +1,177 @@
+{
+  "_meta": {
+    "currency": "NGN",
+    "compiled_date": "2025-06-20",
+    "sources": ["Jumia Nigeria", "Konga", "Microscale.net", "Nicrobit.com.ng", "Nerdshed.com.ng", "Ubuy Nigeria", "Jiji.ng"]
+  },
+  "items": [
+    {
+      "component": "LM317 voltage regulator (TO-220)",
+      "spec": "1.25-37 V, 1.5 A adjustable linear regulator",
+      "qty": 1,
+      "unit_price_naira": 350,
+      "source": "Nicrobit.com.ng",
+      "source_url": "https://nicrobit.com.ng/product/lm317-voltage-regulator-adjustable-output-1-5a/"
+    },
+    {
+      "component": "1N4007 rectifier diode",
+      "spec": "1 A, 1000 V, DO-41 axial",
+      "qty": 1,
+      "unit_price_naira": 20,
+      "source": "Microscale.net",
+      "source_url": "https://www.microscale.net"
+    },
+    {
+      "component": "Electrolytic capacitor 470 uF / 25 V",
+      "spec": "Aluminium electrolytic, 8x12 mm",
+      "qty": 1,
+      "unit_price_naira": 200,
+      "source": "Jumia Nigeria (component kit)",
+      "source_url": "https://www.jumia.com.ng"
+    },
+    {
+      "component": "Electrolytic capacitor 10 uF / 25 V",
+      "spec": "Aluminium electrolytic",
+      "qty": 1,
+      "unit_price_naira": 100,
+      "source": "Jumia Nigeria (component kit)",
+      "source_url": "https://www.jumia.com.ng"
+    },
+    {
+      "component": "Electrolytic capacitor 1 uF / 10 V",
+      "spec": "Aluminium electrolytic",
+      "qty": 1,
+      "unit_price_naira": 80,
+      "source": "Jumia Nigeria (component kit)",
+      "source_url": "https://www.jumia.com.ng"
+    },
+    {
+      "component": "Ceramic capacitor 0.1 uF / 50 V",
+      "spec": "Multilayer ceramic",
+      "qty": 1,
+      "unit_price_naira": 50,
+      "source": "Jumia Nigeria (component kit)",
+      "source_url": "https://www.jumia.com.ng"
+    },
+    {
+      "component": "Resistor assortment pack 1/4 W",
+      "spec": "200 pcs, 1/4 W carbon film, 5% tolerance, multiple values (covers 270, 820, 330, 10k ohm)",
+      "qty": 1,
+      "unit_price_naira": 5000,
+      "source": "Konga",
+      "source_url": "https://www.konga.com/product/electronic-resistor-pack-1-4-watt-carbon-film-assorted-values-for-arduino-diy-projects-200pcs"
+    },
+    {
+      "component": "Zener diode 5.6 V / 1 W",
+      "spec": "1N5232B, DO-35 glass",
+      "qty": 1,
+      "unit_price_naira": 250,
+      "source": "Jumia Nigeria (component kit)",
+      "source_url": "https://www.jumia.com.ng"
+    },
+    {
+      "component": "LED 5 mm red",
+      "spec": "5 mm diffused red, 2 V, 20 mA",
+      "qty": 1,
+      "unit_price_naira": 50,
+      "source": "Jumia Nigeria",
+      "source_url": "https://www.jumia.com.ng"
+    },
+    {
+      "component": "USB Type-A female socket (DIP adapter)",
+      "spec": "USB 2.0 Type-A female to DIP 2.54 mm breakout",
+      "qty": 1,
+      "unit_price_naira": 500,
+      "source": "Jumia Nigeria / Konga",
+      "source_url": "https://www.jumia.com.ng"
+    },
+    {
+      "component": "12 V DC barrel-jack power adapter",
+      "spec": "12 V, 2 A, 24 W, 5.5x2.5 mm barrel plug (replaces cigar plug for lab use)",
+      "qty": 1,
+      "unit_price_naira": 3500,
+      "source": "Jumia Nigeria",
+      "source_url": "https://www.jumia.com.ng"
+    },
+    {
+      "component": "12 V cigar-lighter plug (male)",
+      "spec": "Standard automotive 12 V cigar lighter, with fuse",
+      "qty": 1,
+      "unit_price_naira": 2500,
+      "source": "Jumia Nigeria",
+      "source_url": "https://www.jumia.com.ng"
+    },
+    {
+      "component": "ESP8266 NodeMCU v3 (CH340)",
+      "spec": "ESP-12E Wi-Fi module, 4 MB flash, micro-USB",
+      "qty": 1,
+      "unit_price_naira": 7000,
+      "source": "Nerdshed.com.ng",
+      "source_url": "https://nerdshed.com.ng/product/esp8266-nodemcu-v3-lua-ch340g-wifi-module/"
+    },
+    {
+      "component": "ACS712 current sensor module (5 A)",
+      "spec": "Hall-effect, +/-5 A range, 66 mV/A sensitivity",
+      "qty": 1,
+      "unit_price_naira": 4000,
+      "source": "Konga",
+      "source_url": "https://www.konga.com/product/acs712-current-sensor-module-30a-model"
+    },
+    {
+      "component": "5 V relay module (1 channel, opto-isolated)",
+      "spec": "5 V coil, 10 A contacts, active-low trigger",
+      "qty": 1,
+      "unit_price_naira": 1650,
+      "source": "Microscale.net",
+      "source_url": "https://www.microscale.net"
+    },
+    {
+      "component": "830-point solderless breadboard",
+      "spec": "MB-102, 830 tie-points, self-adhesive",
+      "qty": 1,
+      "unit_price_naira": 6999,
+      "source": "Jumia Nigeria",
+      "source_url": "https://www.jumia.com.ng/generic-830-tie-points-solderless-pcb-breadboard"
+    },
+    {
+      "component": "Jumper wire pack (40 pcs M-M, M-F, F-F)",
+      "spec": "Dupont 2.54 mm, 20 cm, 3 sets of 40",
+      "qty": 1,
+      "unit_price_naira": 2500,
+      "source": "Jumia Nigeria",
+      "source_url": "https://www.jumia.com.ng"
+    },
+    {
+      "component": "Perfboard (single-side plated)",
+      "spec": "7x9 cm, 2.54 mm pitch",
+      "qty": 1,
+      "unit_price_naira": 800,
+      "source": "Jumia Nigeria",
+      "source_url": "https://www.jumia.com.ng"
+    },
+    {
+      "component": "Plastic project enclosure",
+      "spec": "100x60x30 mm, ABS, with screw-on lid",
+      "qty": 1,
+      "unit_price_naira": 1500,
+      "source": "Jumia Nigeria",
+      "source_url": "https://www.jumia.com.ng"
+    },
+    {
+      "component": "Heatsink for TO-220",
+      "spec": "25x25x11 mm aluminium, with mounting hardware",
+      "qty": 1,
+      "unit_price_naira": 500,
+      "source": "Jumia Nigeria",
+      "source_url": "https://www.jumia.com.ng"
+    },
+    {
+      "component": "Miscellaneous (solder, flux, heat-shrink, screws)",
+      "spec": "Consumables, 20 g solder + 5 g flux + 1 m heat-shrink + screws",
+      "qty": 1,
+      "unit_price_naira": 2000,
+      "source": "Jumia Nigeria / local market",
+      "source_url": "https://www.jumia.com.ng"
+    }
+  ]
+}
