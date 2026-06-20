@@ -70,3 +70,7 @@ Caddyfile
 *.png
 !public/*.png
 !public/*.svg
+
+# Allow proposal/project documents under docs/
+!docs/**/*.docx
+!docs/**/*.pdf
