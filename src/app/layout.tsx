@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "Smart USB Power Socket — 3D Working Model",
   description: "Interactive 3D working model of a Smart USB Power Socket with Android Monitoring Application, built with React Three Fiber and Next.js.",
   keywords: ["Smart USB Socket", "3D Model", "React Three Fiber", "LM317", "ESP8266", "IoT", "Android"],
-  authors: [{ name: "Nile University of Nigeria — Dept. of EEE" }],
+  authors: [{ name: "Yusuf Umar Saleh — HUK Polytechnic Katsina, Dept. of Electrical Engineering" }],
   icons: {
     icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
   },

@@ -1,6 +1,6 @@
 # Smart USB Power Socket — 3D Working Model
 
-An interactive 3D visualization of a **Smart USB Power Socket with Android Monitoring Application**, built with React Three Fiber and Next.js 16. This is the visual companion to the undergraduate project at Nile University of Nigeria, Department of Electrical & Electronic Engineering (2025/2026 session).
+An interactive 3D visualization of a **Smart USB Power Socket with Android Monitoring Application**, built with React Three Fiber and Next.js 16. This is the visual companion to the HND project by **Yusuf Umar Saleh (Reg. No. N23EE010)** at **Hassan Usman Katsina Polytechnic, Katsina**, Department of Electrical Engineering (2025/2026 session).
 
 ![Smart USB Power Socket — 3D Model](https://img.shields.io/badge/3D-React_Three_Fiber-blue) ![Next.js 16](https://img.shields.io/badge/Next.js-16-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![Vercel Ready](https://img.shields.io/badge/Vercel-Ready-black)
 
@@ -95,9 +95,12 @@ This 3D model is the visual companion to a real undergraduate hardware project t
 
 ## Academic Context
 
-- **Institution**: Nile University of Nigeria, Abuja
-- **Faculty**: Sciences
-- **Department**: Electrical & Electronic Engineering
+- **Institution**: Hassan Usman Katsina Polytechnic, Katsina
+- **School**: School of Engineering
+- **Department**: Electrical Engineering
+- **Student**: Yusuf Umar Saleh
+- **Reg. No.**: N23EE010
+- **Programme**: Higher National Diploma (HND)
 - **Session**: 2025 / 2026
 - **Supervisor**: [Supervisor Name]
 
@@ -107,4 +110,4 @@ MIT — free to use for educational purposes. Attribution appreciated.
 
 ---
 
-Built as part of an undergraduate project at Nile University of Nigeria.
+Built as part of an HND project at Hassan Usman Katsina Polytechnic, Katsina.

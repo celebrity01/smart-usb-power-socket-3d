@@ -54,7 +54,7 @@ export default function Home() {
             Smart USB Power Socket
           </h1>
           <p className="hidden text-[10px] text-slate-400 sm:block">
-            3D Working Model · Nile University of Nigeria
+            3D Working Model · Hassan Usman Katsina Polytechnic
           </p>
         </div>
 

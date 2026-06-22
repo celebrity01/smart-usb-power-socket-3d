@@ -41,7 +41,7 @@ export function ControlPanel({
           Smart USB Power Socket
         </h1>
         <p className="text-xs text-slate-400">
-          3D Working Model &middot; Nile University of Nigeria &middot; Dept. of EEE
+          3D Working Model &middot; Hassan Usman Katsina Polytechnic &middot; Dept. of Electrical Eng.
         </p>
       </div>
 
